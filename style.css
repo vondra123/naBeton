@@ -28,7 +28,7 @@ body {
 header {
   position: relative;
   min-height: 50vh;
-  background-image: url("img/header.png");
+  background-image: url("header.png");
   background-size: cover;
   background-position: center 85%;
   display: flex;
